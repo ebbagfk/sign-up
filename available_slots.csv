@@ -1,0 +1,4 @@
+slots,count_initial_available_slots,count_taken_slots,count_available_slots
+Morning,10,0,5
+Afternoon,10,0,5
+Evening,10,0,5
